@@ -15,7 +15,7 @@ public class TTT
      {
         for(int j=0;j<3;j++)
         {
-                ar[i][j]= n;
+                ar[i][j]=n;
                 n++;
         }
      }
