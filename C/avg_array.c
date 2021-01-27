@@ -16,7 +16,7 @@ int main()
     int i;
     for (i = 0; i < count; ++i)
     {
-        printf("%2u>", i + 1);
+        printf("%.2u>", i + 1);
         scanf("%i", &grades[i]);
         sum += grades[i];
     }

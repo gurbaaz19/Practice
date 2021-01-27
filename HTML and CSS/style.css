@@ -1,0 +1,25 @@
+#divForm
+{
+    background-color:rgb(132, 218, 221);
+    border-style: double;
+    margin: auto;
+    width:500px;
+}
+
+#div1
+{
+    background-color: blue;
+}
+
+#div2
+{
+    margin-left: 0%;
+    margin-right: 0%;
+    width:fit-content;
+    margin: auto;
+    
+}
+
+#name{
+    
+}
