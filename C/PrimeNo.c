@@ -19,10 +19,10 @@ int main()
     if (n > 2 && n % 2 != 0)
     {
         i = 3;
-        while (k > 0 && i < sqrt(n))
+        while (k > 0 && i <= sqrt(n))
         {
             k = n % i;
-            i = i + 2;
+            i = i + 2;   
         } 
 
         if (k == 0)

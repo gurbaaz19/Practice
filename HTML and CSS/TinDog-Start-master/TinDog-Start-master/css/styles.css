@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0px 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+.navbar-brand {
+  font-family: "Akaya Kanadaka", cursive;
+  font-size: 50px;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+div.row > div.col-lg-6 > h1 {
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: bolder;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0%;
+}
+
+.title-image {
+  width: 60%;
+  transform:rotate(25deg);
+}
