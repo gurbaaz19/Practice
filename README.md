@@ -1,1 +1,1 @@
-**This repositary includes all the practice files new things learnt.**
+**This repositary includes all the practice files of new things learnt.**
