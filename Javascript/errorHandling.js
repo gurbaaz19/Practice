@@ -1,11 +1,12 @@
-const express = require('express');
-const app = express();
-
-app.get('/data', (req,res,next)=>{
-    res.status(200).json({
-        hello: "world",
-        something: 25
-    });
-});
-
-app.listen(8080,()=>{console.log("Server running");})
+function getDatafromSomewhere() {
+  return undefined;
+}
+try {
+  let data = getDatafromSomewhere();
+  console.log(data.tempPune);
+} catch (e) {
+  console.log(e.message);
+}
+finally{
+    console.log("Finally");
+}
