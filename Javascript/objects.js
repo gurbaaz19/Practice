@@ -1,7 +1,7 @@
 let a = {
   hello: "world",
   1: "abc",
-  hijkl: "abc",
+  hijkl: 123,
 };
 
 console.log(a);
